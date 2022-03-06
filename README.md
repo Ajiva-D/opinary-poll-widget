@@ -15,3 +15,5 @@ In the `config` file the object should include a `question` which is a string, a
 I decided to keep it simple and just use basic `html`, `css` and `vanilla js` to enable it be easier to integrate into html pages. To make the configuration straightforward I decided to use a JSON file where the widget user can just pass json data and have the widget up and running.
 
 Due to limited time, I didn't include unit test which doesn't affect the overall output but makes development process easier.
+
+The JS file is also minified to optimize performance.
