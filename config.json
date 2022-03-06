@@ -1,0 +1,14 @@
+{
+	"question":"How are you?",
+	"pollID":"feelingsPoll",
+	"options":[
+		{
+			"id":"xx1",
+			"option":"Great!"
+		},
+		{
+			"id":"xx2",
+			"option":"Awesome!"
+		}
+	]
+}
