@@ -1,0 +1,18 @@
+{
+	"question":"How you like the Opinary test?",
+	"pollID":"opinaryPoll",
+	"options":[
+		{
+			"id":"opt1",
+			"option":"It was great and so challenging"
+		},
+		{
+			"id":"opt2",
+			"option":"Not bad, but you can improve"
+		},
+		{
+			"id":"opt3",
+			"option":"It was a nightmare, never again"
+		}
+	]
+}
