@@ -89,6 +89,9 @@ label .row span{
   font-size: 16px;
   font-weight: 500;
 }
+label .row .percent{
+  display: none;
+}
 
 label .progress{
   height: 7px;
